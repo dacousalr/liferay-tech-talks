@@ -1,0 +1,5 @@
+-sources: true
+Bundle-Version: 1.0.0.${tstamp}
+Export-Package:\
+	tasks.management.api.storage,\
+	tasks.management.api.model

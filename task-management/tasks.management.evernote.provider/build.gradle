@@ -1,0 +1,6 @@
+version = '1.0'
+
+dependencies {
+	compile  project(':tasks.management.api')
+	compile 'com.evernote:evernote-api:1.25.1'
+}

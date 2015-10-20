@@ -1,0 +1,1 @@
+include 'tasks.management.api', 'tasks.management.inmemory.provider', 'tasks.management.portlet', 'tasks.management.evernote.provider'
